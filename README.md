@@ -21,8 +21,8 @@
       align="center"
       src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"
       alt="nitesh pandey"
-      height="50"
-      width="50"
+      height="60"
+      width="60"
   />
 </a>
   <a
@@ -32,16 +32,16 @@
       align="center"
       src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif"
       alt="nitesh pandey"
-      height="50"
-      width="50"
+      height="60"
+      width="60"
   /></a>
   <a href="https://www.instagram.com/pandey_ji8235/" target="blank"
     ><img
       align="center"
       src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif"
       alt="pandey_ji8235"
-      height="50"
-      width="50"
+      height="60"
+      width="60"
   /></a>
 </p>
 
