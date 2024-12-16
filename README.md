@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img style="border-radius: 2" align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
+<img  align="right" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
 
 <p align="left">
   <img
