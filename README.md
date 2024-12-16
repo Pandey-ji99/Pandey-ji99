@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Pandey</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img  align="right" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
+<img  align="right" width="352" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
+
 
 <p align="left">
   <img
@@ -144,8 +145,7 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey-ji99&show_icons=true&locale=en&layout=compact"
-    alt="pandey-ji99"
-  />
+    alt="pandey-ji99" />
 </p>
 
 <p>
@@ -157,6 +157,7 @@
   />
 </p>
 
+<img  align="left" width="340" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding">
 <p>
   <img
     align="center"
