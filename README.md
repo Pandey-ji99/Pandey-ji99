@@ -161,7 +161,7 @@
 <p>
   <img
     align="right"
-    src="https://cdn.pixabay.com/animation/2024/10/29/21/26/21-26-40-377_512.gif"
+    src="#"
     alt="pandey-ji99"
   />
 </p>
