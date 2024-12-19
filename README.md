@@ -161,7 +161,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-ji99&"
+    src="https://cdn.pixabay.com/animation/2024/10/29/21/26/21-26-40-377_512.gif"
     alt="pandey-ji99"
   />
 </p>
