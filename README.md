@@ -160,7 +160,7 @@
 <img  align="left" width="340" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding">
 <p>
   <img
-    align="center"
+    align="right"
     src="https://cdn.pixabay.com/animation/2024/10/29/21/26/21-26-40-377_512.gif"
     alt="pandey-ji99"
   />
